@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+.category-section{
+   /*  height: 100vh;
+    background-image: url('./img/bg.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat; */
+}
+.form-size{
+    border-radius: 20px;
+}
+.nav-bg{
+    background-image: url('./img/nbg.png');
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.other-nav{
+    background-image: url('./img/nbg.png');
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.border-form{
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.custom-btn{
+    background-color: white;
+}
+.hero-bg{
+    height: 250px;
+    background-image: url('./img/h1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+.hero-bgtwo{
+    height: 250px;
+    background-image: url('./img/h2.jpg');
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+.custom-card{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
